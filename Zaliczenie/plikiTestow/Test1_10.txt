@@ -1,0 +1,5 @@
+imie;nazwisko;wiek
+wojtek;bomba
+wojtek
+wojtek;bomba;20
+OLA;NIEDUZAK;45

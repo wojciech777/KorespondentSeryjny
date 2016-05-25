@@ -1,0 +1,5 @@
+imie+nazwisko+zwierze
+kot
+piotr+alak+Tygrys
+piotr+alak
+wojtek+jakis+Pies

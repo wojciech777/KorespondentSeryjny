@@ -1,0 +1,5 @@
+imie+nazwisko+wiek
+wojtek+bomba+21
+23+34
+rafal+MaSeRaK+32
+ola+nieduzak

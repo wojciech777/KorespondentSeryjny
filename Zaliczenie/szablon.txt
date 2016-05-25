@@ -1,0 +1,4 @@
+                  zaproszenie!!!
+serdecznie     zapraszam	Pana $imie $nazwisko
+ktory ma $wiek \$proba1 '$proba2' '\$proba3' \'$proba4' ' \ $wiek
+                                     Wojciech Bomba

@@ -1,0 +1,7 @@
+imie+;nazwisko+;wiek
+wojtek\+;robert+;bomba+;21
+sebastian\\+;maria+;kobierski+;20
+michal+;12
+ola+;markowska+;23
+23+;34
+rafal+;MaSeRaK+;32
